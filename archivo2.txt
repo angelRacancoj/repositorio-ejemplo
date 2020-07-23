@@ -1,2 +1,2 @@
-otro lo q sea de texto
+otro lo q sea file.txt de texto
 agregamos una linea
